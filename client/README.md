@@ -1,3 +1,7 @@
-# Catstronauts - client
+## Install client dependancies
 
-The starting point of the `client` code for Odyssey Lift-off II course.
+### `yarn install`
+
+## Run front project
+
+### `yarn start`
